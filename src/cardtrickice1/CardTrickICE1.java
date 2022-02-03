@@ -41,6 +41,7 @@ public class CardTrickICE1{
             else
                 System.out.println("Your card isn't generated");
          
+        Card[] luckyCard = {"spades" 2};
         }
     }
     
