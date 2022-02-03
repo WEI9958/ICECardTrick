@@ -4,6 +4,7 @@ package cardtrickice1;
  *This class define card calue and suits
  *
  * @author William Chen
+ *student number:991664233
  */
 public class Card {
     private int value;
