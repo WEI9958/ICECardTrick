@@ -10,6 +10,7 @@ import java.util.Scanner;
  * step3: user card is in the array 'card is found'
  * 
  * @author William Chen
+ *student number:991664233
  */
 public class CardTrickICE1{
 
