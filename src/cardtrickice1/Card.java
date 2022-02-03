@@ -46,5 +46,5 @@ public class Card {
     }
     //number
     
-    //suit
+    //suitl
 }
